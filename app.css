@@ -18,7 +18,7 @@ ul li {
 }
 nav ul li {
   flex-wrap: wrap;
-  width: 70px;
+  width: 80px;
   margin: 2px 2px 15px 2px;
   text-align: center;
   cursor: pointer;
@@ -45,12 +45,14 @@ nav ul li.active {
 }
 h3 {
   font-size: 22px;
-  color: #3155A6;
+  color: #005a81;
   margin: 0;
   padding: 0;
   border-top: 1px solid #e4ecef;
 }
-#caption {
+#col2 {
+	font-weight: bold;
+	color: #a0262a;
 	
 }
 
@@ -125,12 +127,11 @@ main img {
 	  height: 550px;
   }
   nav {
-	  max-width: 520px;
+	  max-width: 600px;
 	  margin: auto;
   }
   nav ul li {
-  width: 100px;
-  margin: 5px 5px 10px 5px;
+	  width: 90px;
 }
 
 footer {
