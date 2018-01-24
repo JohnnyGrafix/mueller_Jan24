@@ -1,0 +1,62 @@
+title: US-Russia collusion probe
+subhead: Legal actions and investigations in the inquiry headed by Robert Mueller 
+
+[tabs]
+image: mueller_jan24-01.png
+props.name: Flynn
+props.title: Michael Flynn
+props.caption: Donald Trump’s former national security adviser 
+props.description: Resigned in February after it emerged he had lied to the White House. Former FBI head James Comey, who was sacked by Trump, testified in June that Trump had asked him to drop a probe into Flynn
+props.description2: Pleaded guilty December 1 to lying to the FBI about talks in December 2016 with then Russian ambassador to the US Sergey Kislyak
+props.color: #3155A6
+
+image: mueller_jan24-02.png
+props.name: FBI
+props.title: Sacking the FBI director
+props.caption: James Comey is sworn in during a a Senate hearing, Jun 8
+props.description: On May 9, Trump abruptly fired FBI director James Comey, who was leading a probe into whether Trump’s election campaign colluded with Russia
+props.description2: The sacking led to the appointment of an independent counsel, Robert Mueller, to head the Russia investigation
+props.color: #3155A6
+
+
+image: mueller_jan24-03.png
+props.name: Climate
+props.title: Climate deal pullout
+props.caption: Trump supporters rally near the White House, Jun 3
+props.description: On June 1, Trump announced he was pulling out of the Paris climate deal, reversing the country’s commitment to fight global warming
+props.description2: He painted the accord as a “bad deal”, saying “he was elected to represent the citizens of Pittsburgh, not Paris”
+props.color: #3155A6
+
+image: mueller_jan24-04.png
+props.name: Kim
+props.title: Pushing Kim’s buttons
+props.caption: TV screen in Seoul show photos of the leaders of US and North 
+Korea, Nov 29
+props.description: In September, Trump vowed to destroy the nuclear-armed North Korea, led by leader Kim Jong-Un a.k.a. “Rocket Man”, if it threatened the US
+props.description2: Analysts fear Trump’s outbursts dangerously raise the risk of miscalculation that could lead to disaster
+props.color: #3155A6
+
+image: mueller_jan24-05.png
+props.name: Mid East
+props.title: Status of Jerusalem
+props.caption: Palestinian supporters hold protest in Gaza Strip against Trump’s decision  to recognise Israel as capital of Jerusalem, Jan 12
+props.description: On Dec 6, Trump recognised Jerusalem as Israel’s capital, a decision that overturned decades of US policy.  The move was largely rejected in a UN vote 
+props.description2:Palestinian president Mahmud Abbas reacted by saying he would “no longer accept” any peace plan proposed by the United States
+props.color: #3155A6
+
+image: mueller_jan24-06.png
+props.name: Tax
+props.title: $1.5 trillion tax cut
+props.caption: US President Donald Trump holds a document during an event to sign the Tax Cut and Reform Bill, Dec 22
+props.description: On Dec 22, Trump signed the most sweeping rewrite of the US tax code in decades, bringing with it cuts worth $1.5 trillion
+props.description2:Opposition Democrats branded it a giveaway to the wealthiest that risks blowing a hole in the national debt
+props.color: #3155A6
+
+
+[]
+
+sources: Source: ATP
+
+lastUpdate.key: Last update:
+lastUpdate.value: 01/09/2018 22:00:00 (HK)
+lang: en
