@@ -3,7 +3,7 @@ subhead: Questions and indictments in the inquiry headed by Robert Mueller
 
 [tabs]
 
-image: muellar_jan25-01.png
+image: muellar_Jan25-01.png
 props.name: Trump
 props.title: Donald Trump
 props.caption: Won the November 8, 2016 US presidential election
