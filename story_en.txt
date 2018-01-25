@@ -1,38 +1,22 @@
 title: US-Russia collusion probe
-subhead: Legal actions and investigations in the inquiry headed by Robert Mueller 
+subhead: Questions and indictments in the inquiry headed by Robert Mueller 
 
 [tabs]
-image: mueller_jan24-01.png
-props.name: Flynn
-props.title: Michael Flynn
-props.caption: Donald Trump’s former national security adviser 
-props.description: Resigned in February after it emerged he had lied to the White House. Former FBI head James Comey, who was sacked by Trump, testified in June that Trump had asked him to drop a probe into Flynn
-props.description2: Pleaded guilty December 1 to lying to the FBI about talks in December 2016 with then Russian ambassador to the US Sergey Kislyak
+
+image: muellar_jan25-01.png
+props.name: Trump
+props.title: Donald Trump
+props.caption: Won the November 8, 2016 US presidential election
+props.description: Sacked Mueller’s predecessor in the inquiry, James Comey, on May 9, 2017. Has repeatedly denied any wrongdoing
+props.description2: Following US reports that Mueller sought to question him, Trump said he would “love” to speak under oath
 props.color: #005a81
 
-image: mueller_jan24-02.png
-props.name: Papadopoulos
-props.title: George Papadopoulos
-props.caption: Former foreign policy advisor on the Trump campaign 
-props.description: Admitted he tried to hide Moscow-linked contacts, made efforts to “arrange a meeting between the campaign and Russian government officials”
-props.description2: Arrested July 27, pleaded guilty on October 5 to lying to the FBI about Kremlin-related contacts
-props.color: #005a81
-
-
-image: mueller_jan24-03.png
-props.name: Manafort
-props.title: Paul Manafort
-props.caption: Trump’s 2016 nomination campaign manager
-props.description: Forced to resign in August 2016 after reports he was under investigation over millions of dollars allegedly paid by pro-Russia former Ukrainian president Viktor Yanukovych 
-props.description2: Indicted October 27. Pleaded not guilty to conspiracy against the US money laundering, several other charges
-props.color: #005a81
-
-image: mueller_jan24-04.png
-props.name: Gates
-props.title: Rick Gates
-props.caption: Manafort’s deputy during the nomination campaign
-props.description: Charged along with Manafort with allegedly hiding millions of dollars gleaned from work with Yanukovych and his pro-Moscow political party
-props.description2: Indicted October 27. Pleaded not guilty to conspiracy
+image: mueller_jan24-06.png
+props.name: Sessions
+props.title: Jeff Sessions
+props.caption: US attorney general picked by Trump
+props.description: Played a key role in the May 9, 2017 firing of FBI director James Comey, whose pursuit of the Russia meddling case angered Trump
+props.description2:First member of Trump’s cabinet to be questioned in Mueller’s probe
 props.color: #005a81
 
 image: mueller_jan24-05.png
@@ -44,19 +28,43 @@ props.description:Reportedly described Trump’s eldest son’s meeting with a K
 props.description2: New York Times reported in January that Mueller has subpoenaed Bannon to testify before a grand jury 
 props.color: #005a81
 
-image: mueller_jan24-06.png
-props.name: Sessions
-props.title: Jeff Sessions
-props.caption: US attorney general picked by Trump
-props.description: Played a key role in the May 9, 2017 firing of FBI director James Comey, whose pursuit of the Russia meddling case angered Trump
-props.description2:First member of Trump’s cabinet to be questioned in Mueller’s probe
-props.color: #005a81
+image: mueller_jan24-01.png
+props.name: Flynn
+props.title: Michael Flynn
+props.caption: Donald Trump’s former national security adviser 
+props.description: Resigned in February after it emerged he had lied to the White House. Former FBI head James Comey, who was sacked by Trump, testified in June that Trump had asked him to drop a probe into Flynn
+props.description2: Pleaded guilty December 1 to lying to the FBI about talks in December 2016 with then Russian ambassador to the US Sergey Kislyak
+props.color: #a0262a
+
+image: mueller_jan24-03.png
+props.name: Manafort
+props.title: Paul Manafort
+props.caption: Trump’s 2016 nomination campaign manager
+props.description: Forced to resign in August 2016 after reports he was under investigation over millions of dollars allegedly paid by pro-Russia former Ukrainian president Viktor Yanukovych 
+props.description2: Indicted October 27. Pleaded not guilty to conspiracy against the US money laundering, several other charges
+props.color: #a0262a
+
+image: mueller_jan24-04.png
+props.name: Gates
+props.title: Rick Gates
+props.caption: Manafort’s deputy during the nomination campaign
+props.description: Charged along with Manafort with allegedly hiding millions of dollars gleaned from work with Yanukovych and his pro-Moscow political party
+props.description2: Indicted October 27. Pleaded not guilty to conspiracy
+props.color: #a0262a
+
+image: mueller_jan24-02.png
+props.name: Papadopoulos
+props.title: George Papadopoulos
+props.caption: Former foreign policy advisor on the Trump campaign 
+props.description: Admitted he tried to hide Moscow-linked contacts, made efforts to “arrange a meeting between the campaign and Russian government officials”
+props.description2: Arrested July 27, pleaded guilty on October 5 to lying to the FBI about Kremlin-related contacts
+props.color: #a0262a
 
 
 []
 
-sources: Source: ATP
+sources: Source: AFP/US media
 
 lastUpdate.key: Last update:
-lastUpdate.value: 01/09/2018 22:00:00 (HK)
+lastUpdate.value: 01/25/2018 02:30:00 (HK)
 lang: en
